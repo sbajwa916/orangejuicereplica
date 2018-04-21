@@ -1,0 +1,101 @@
+* {margin: 0 auto; 
+}
+
+
+
+.navbar li {
+	display: inline-block;
+	text-decoration: none;
+}
+.left {
+	padding-right: 100px;
+	margin-left: 100px;
+	text-decoration: none;
+}
+.right {
+	margin-right: 30px;
+	text-decoration: none;
+}
+li {
+	margin-right: 750px;
+	text-decoration: none;
+	text-decoration-line: none;
+}
+nav {
+	background-color: orange;
+	background-size: cover;
+}
+li a {
+	text-decoration: none;
+}
+ul.navbar {
+	background-size: cover;
+}
+span {
+  font-weight: bold;
+}
+div#search {
+  text-align: right;
+}
+#search input {
+  width: 200px;
+  padding: 15px;
+  background-color: #F0F0EF;
+  border: none;
+  margin-right: 35px;
+  margin-top: 10px;
+}
+#left {
+  display: inline-block;
+  width: 30%;
+  margin-top: 25px;
+  margin-left: 150px;
+}
+#right {
+  display: inline-block;
+  position: absolute;
+  width: 33%;
+  margin-top: 130px;
+  margin-left: 150px;
+}
+#right h5 {
+  margin: 0 15px;
+  font-size: 35px;
+  font-weight: 400;
+  width: 530px;
+  color: #FF8C00;
+}
+button {
+  background-color: #FF8C00;
+  color: #fff;
+  font-size: 13px;
+  border: none;
+  border-radius: 2px;
+  padding: 15px 20px;
+  width: 42%;
+  margin: 0 3%;
+}
+.bt {
+	background-color: #7BCBC9;
+}
+ .teal {
+	color: teal;
+}
+.orange1 {
+	font-size: bold;
+	color:  orange;
+}
+.purple {
+	color: #771677b8;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 10px;
+	font-size: 30px;
+}
+.white {
+	color: white;
+}
+footer {
+  margin-top: 150px;
+  background-color: #7BCBC9;
+  height: 150px;
+}
